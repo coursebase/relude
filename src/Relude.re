@@ -32,6 +32,7 @@ module OptionT = Relude_OptionT;
 module Ordering = Relude_Ordering;
 module Reader = Relude_ReaderT.Reader;
 module ReaderT = Relude_ReaderT;
+module RIO = Relude_RIO;
 module Result = Relude_Result;
 module ResultT = Relude_ResultT;
 module RWST = Relude_RWST;
